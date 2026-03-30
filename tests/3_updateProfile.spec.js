@@ -22,6 +22,7 @@ test.describe("User can update profile", () => {
 
     test ("User can update profile successfully", async () => {
 
+        await page.goto("https://ratul.staging.dokandev.com/customers/account");
         const profileUpdatePage = new ProfileUpdatePage(page);
         await profileUpdatePage.updatePhone("01400907895");
         
