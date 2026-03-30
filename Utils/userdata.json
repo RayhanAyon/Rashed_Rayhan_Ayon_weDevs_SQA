@@ -1,0 +1,107 @@
+[
+  {
+    "firstName": "Clifton",
+    "lastName": "Morissette",
+    "email": "Donnie46@yahoo.com",
+    "password": "123abc",
+    "confirmPassword": "123abc"
+  },
+  {
+    "firstName": "Lisa",
+    "lastName": "Cummerata",
+    "email": "Elaine96@yahoo.com",
+    "password": "123abc",
+    "confirmPassword": "123abc"
+  },
+  {
+    "firstName": "Carlos",
+    "lastName": "Littel",
+    "email": "Marty16@yahoo.com",
+    "password": "123abc",
+    "confirmPassword": "123abc"
+  },
+  {
+    "firstName": "Velda",
+    "lastName": "Zieme",
+    "email": "kaleb.upton@test.com",
+    "password": "123abc",
+    "confirmPassword": "123abc"
+  },
+  {
+    "firstName": "Howard",
+    "lastName": "Ziemann",
+    "email": "alexander.hegmann@test.com",
+    "password": "123abc",
+    "confirmPassword": "123abc"
+  },
+  {
+    "firstName": "Kendra",
+    "lastName": "Kautzer",
+    "email": "abbigail.schroeder@test.com",
+    "password": "123abc",
+    "confirmPassword": "123abc"
+  },
+  {
+    "firstName": "Sterling",
+    "lastName": "McClure",
+    "email": "amelia.kertzmann@test.com",
+    "password": "123abc",
+    "confirmPassword": "123abc"
+  },
+  {
+    "firstName": "Cruz",
+    "lastName": "Dooley",
+    "email": "mariana.bruen@test.com",
+    "password": "123abc",
+    "confirmPassword": "123abc"
+  },
+  {
+    "firstName": "Donnie",
+    "lastName": "Tremblay",
+    "email": "don.douglas@test.com",
+    "password": "123abc",
+    "confirmPassword": "123abc"
+  },
+  {
+    "firstName": "Nayeli",
+    "lastName": "Ruecker",
+    "email": "marlon.klocko@test.com",
+    "password": "123abc",
+    "confirmPassword": "123abc"
+  },
+  {
+    "firstName": "Florence",
+    "lastName": "Blanda-Quitzon",
+    "email": "zion.borer@test.com",
+    "password": "123abc",
+    "confirmPassword": "123abc"
+  },
+  {
+    "firstName": "Marcella",
+    "lastName": "Hodkiewicz",
+    "email": "pat.sawayn@test.com",
+    "password": "123abc",
+    "confirmPassword": "123abc"
+  },
+  {
+    "firstName": "Stephanie",
+    "lastName": "Wisoky",
+    "email": "darrin.white@test.com",
+    "password": "123abc",
+    "confirmPassword": "123abc"
+  },
+  {
+    "firstName": "Mikayla",
+    "lastName": "Marks",
+    "email": "miles.kreiger@test.com",
+    "password": "123abc",
+    "confirmPassword": "123abc"
+  },
+  {
+    "firstName": "Jeffery",
+    "lastName": "Orn-Quigley",
+    "email": "taurean.marquardt@test.com",
+    "password": "123abc",
+    "confirmPassword": "123abc"
+  }
+]
